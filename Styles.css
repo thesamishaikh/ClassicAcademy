@@ -1,0 +1,51 @@
+body{
+  margin: 0px;
+}
+
+.header{
+  background-color: #3B5998;
+  height: 100px;
+}
+
+.logo{
+position: relative;
+left:150px;
+top:40px;
+
+}
+
+.one{
+  color:white;
+  position: relative;
+  left:800px;
+}
+
+.oneTextBox{
+  position: relative;
+  left:800px;
+}
+
+.two{
+  position: relative;
+  left:822px;
+  bottom:20px;
+  color:white;
+}
+.twoText{
+  position: relative;
+  left:1000px;
+    bottom:20px;
+}
+.btn{
+  position: relative;
+  left:1000px;
+  bottom: 20px;
+}
+.content{
+  background-color: #EDEFF6;
+  height: 500px;
+}
+.footer{
+  background-color: white;
+  height: 150px;
+}
